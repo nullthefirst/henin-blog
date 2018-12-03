@@ -2,7 +2,6 @@
 
 - - -
 
-
 <h4>
   Date: <a href="#">December 3, 2018</a>
   <br />
@@ -13,7 +12,7 @@ When I started actively pushing content to Github, I did not push Open Source co
 
 Now, I want to breakdown the process for new coders (and poets - hopefully), so that they can become comfortable with working with Github too. I will be breaking down several ways to push content to Github. For the purpose of this article, I will assume that readers are familiar with Terminal usage (GitBash or otherwise).  
 
-#### >> Pushing to a repository with a README file
+### >> Pushing to a repository with a README file
 
 There are just a few essential steps to this:  
 
