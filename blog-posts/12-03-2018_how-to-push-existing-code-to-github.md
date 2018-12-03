@@ -8,7 +8,7 @@
   Author: <a href="#">Nullthefirst</a>
 </h4>
 
-This is part **2** of a series I began with [this post](./blog-posts/12-03-2018_how-poetry-taught-me-to-use-github.md). Here, I will be explaining how to push existing code to a new and empty Github repository.
+This is part **2** of a series I began with [this post](./12-03-2018_how-poetry-taught-me-to-use-github.md). Here, I will be explaining how to push existing code to a new and empty Github repository.
 
 <blockquote>
   "Coding is a beautiful thing. Anyone can learn to code!"
