@@ -26,3 +26,5 @@ Now, I want to breakdown the process for new coders (and poets - hopefully), so 
 #### [Read More...](./blog-posts/12-03-2018_how-poetry-taught-me-to-use-github.md)
 
 - - -
+
+If you like the project, do not be too shy to give it a star [on Github](https://github.com/Usheninte/nullblogga) 
