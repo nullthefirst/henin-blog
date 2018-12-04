@@ -1,3 +1,15 @@
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130472936-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-130472936-1');
+  </script>
+</head>
+
 # [<span style="text-decoration: underline; text-decoration-color: #ffffff;">Blog</span>](../README.md) >> How To Push Existing Code To Github
 
 - - -
