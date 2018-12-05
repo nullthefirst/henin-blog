@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  background-color: #c0c0c0;
+}
+
+a {
+  color: #eb9605;
+}
+
+.title {
+  padding: 0.2em;
+  background-color: #000;
+}
+
+.block {
+  width: 10em;
+  height: 10em;
+  background-color: #232425;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+#reset {
+  margin-top: 2em;
+}
+
+#footer {
+  margin-top: 5em;
+}
+
+/* Mobile View */
+@media only screen and (max-width: 1200px) {
+  .block {
+    width: 6em;
+    height: 6em;
+    background-color: #232425;
+  }
+}
