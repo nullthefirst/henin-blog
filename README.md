@@ -1,4 +1,9 @@
 <head>
+  <!-- Information -->
+  <meta name="author" content="Usheninte Dangana">
+  <meta name="description" content="nullblogga | a tech blog for the JavaScript developer. Node.js hacks, info, advice and more.">
+  <!-- Emojis -->
+  <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130472936-1"></script>
   <script>
@@ -39,4 +44,4 @@ Now, I want to breakdown the process for new coders (and poets - hopefully), so 
 
 - - -
 
-If you like the project, do not be too shy to give it a star [on Github](https://github.com/Usheninte/nullblogga) 
+If you like the project, do not be too shy to give it a star <i class="em em-star2"></i> [on Github](https://github.com/Usheninte/nullblogga) 

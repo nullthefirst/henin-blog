@@ -1,4 +1,7 @@
 <head>
+  <!-- Information -->
+  <meta name="author" content="Usheninte Dangana">
+  <meta name="description" content="nullblogga | a tech blog for the JavaScript developer. Node.js hacks, info, advice and more.">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-130472936-1"></script>
   <script>
