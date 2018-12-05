@@ -20,7 +20,7 @@
 <h4>
   Date: <a href="#">December 3, 2018</a>
   <br />
-  Author: <a href="#">Usheninte (nullthefirst)</a>
+  Author: <a href="https://twitter.com/Usheninte" alt="nullthefirst" title="Connect with me on Twitter">nullthefirst</a>
 </h4>
 
 When I started actively pushing content to Github, I did not push Open Source contributions, Components or anything of the like - I pushed poetry. I did this, beacuse it is what I love the most, after coding. I remain ever grateful that I took the initiative to make my first `git commit`.  
