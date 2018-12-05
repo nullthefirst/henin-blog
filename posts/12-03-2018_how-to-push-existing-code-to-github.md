@@ -20,7 +20,7 @@
 <h4>
   Date: <a href="#">December 3, 2018</a>
   <br />
-  Author: <a href="#">Nullthefirst</a>
+  Author: <a href="#">Usheninte (nullthefirst)</a>
 </h4>
 
 This is part **2** of a series I began with [this post](./12-03-2018_how-poetry-taught-me-to-use-github.md). Here, I will be explaining how to push existing code to a new and empty Github repository.
@@ -28,7 +28,7 @@ This is part **2** of a series I began with [this post](./12-03-2018_how-poetry-
 <blockquote>
   "Coding is a beautiful thing. Anyone can learn to code!"
   <br />
-  ~ @Nullthefirst
+  ~ @nullthefirst
 </blockquote>
 
 ### What you need to do:

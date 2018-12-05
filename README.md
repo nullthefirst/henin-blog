@@ -26,7 +26,7 @@ This is part **2** of a series I began with [this post](./posts/12-03-2018_how-p
 <blockquote>
   "Coding is a beautiful thing. Anyone can learn to code!"
   <br />
-  ~ @Nullthefirst
+  ~ @nullthefirst
   <p> </p>
 </blockquote>
 
